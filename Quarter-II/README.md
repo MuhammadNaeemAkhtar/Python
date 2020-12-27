@@ -13,3 +13,7 @@ Sir Nasir: a) https://github.com/nasir-hussain1/piaic_q2_class_reseouces
 
            a) https://numpy.org/devdocs/user/absolute_beginners.html
            b) https://numpy.org/doc/stable/genindex.html
+
+4. Recorded Lecture
+	
+https://drive.google.com/drive/folders/1U8yn62rhHYW8q8Xr9pqTLjaWhNIJvexI
